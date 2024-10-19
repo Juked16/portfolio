@@ -1,2 +1,2 @@
 # My Portfolio hosted on GitHub Pages
-- [Portfolio Page](juked16.github.io/portfolio/)
+- [Portfolio Page](https://juked16.github.io/portfolio/)
