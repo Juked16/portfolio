@@ -1,5 +1,8 @@
 # Juliet's Portfolio
 
+🌐 **[View the Portfolio Page](https://juked16.github.io/portfolio/)**
+Built with ❤️ using Angular | Deployed on GitHub Pages
+
 Welcome to my portfolio! I'm a software developer/engineer that enjoys trying new things.
 
 ## 👋 About Me
